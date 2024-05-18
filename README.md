@@ -3,6 +3,6 @@
 
 
 
-- 🔭 I’m currently working on improving my skills i web development
+- 🔭 I’m currently working on improving my skills in web development
 - 🌱 I’m currently learning web development
 
