@@ -3,6 +3,5 @@
 
 
 
-- 🔭 I’m currently working on improving my skills in web development
-- 🌱 I’m an octopus hihi
+- 🔭 I’m currently working on improving my skills in development and cybersecurity.
 
