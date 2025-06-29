@@ -3,5 +3,5 @@
 
 
 
-- 🔭 I’m currently working on improving my skills in development and cybersecurity.
+- 🔭 I’m currently working on improving my skills in cybersecurity.
 
